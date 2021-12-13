@@ -38,7 +38,7 @@ body{
     }
 
     .container::after{
-        content: "Press on the red square to see the magic";
+        content: "Press the red square to see the magic";
         display: block;
         font-family: 'Courier New', Courier, monospace;
         font-weight: bolder;
